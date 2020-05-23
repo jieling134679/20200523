@@ -6,28 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="080fbc58-2661-442c-9f67-34e602dbf741" name="Default Changelist" comment="20200523 First time to use Git and GitHub, Celebration!">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wordsreplace_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/wordsreplace_jar/wordsreplace.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/wordsreplace/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/wordsreplace/com/CharsetUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/wordsreplace/com/WordsReplace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/wordsreplace/com/WordsReplaceBatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CharsetUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/WordsReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/WordsReplaceBatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordsreplace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试案例/请使用GB2312编码否则无法替换.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试案例/需要替换的文件放这里/替换后的日志文件 - 副本 - 副本 - 副本.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试案例/需要替换的文件放这里/替换后的日志文件 - 副本 - 副本.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试案例/需要替换的文件放这里/替换后的日志文件 - 副本.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试案例/需要替换的文件放这里/替换后的日志文件.log" afterDir="false" />
+    <list default="true" id="080fbc58-2661-442c-9f67-34e602dbf741" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,9 +21,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/CharsetUtil.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -55,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/WordsReplace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="702">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -79,6 +63,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jieling" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -86,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/WordsReplaceBatch.java" />
         <option value="$PROJECT_DIR$/src/com/WordsReplace.java" />
+        <option value="$PROJECT_DIR$/src/com/CharsetUtil.java" />
       </list>
     </option>
   </component>
@@ -207,16 +197,30 @@
       <option name="presentableId" value="Default" />
       <updated>1590077648511</updated>
       <workItem from="1590077651706" duration="2645000" />
-      <workItem from="1590202676744" duration="924000" />
+      <workItem from="1590202676744" duration="1488000" />
     </task>
+    <task id="LOCAL-00001" summary="20200523 First time to use Git and GitHub, Celebration!">
+      <created>1590203744707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590203744707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20200523 First time to use Git and GitHub, Celebration!">
+      <created>1590203931863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590203931863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3569000" />
+    <option name="totallyTimeSpent" value="4133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,11 +237,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,13 +257,17 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="20200523 First time to use Git and GitHub, Celebration!" />
     <option name="LAST_COMMIT_MESSAGE" value="20200523 First time to use Git and GitHub, Celebration!" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/CharsetUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/com/WordsReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/WordsReplaceBatch.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -268,10 +276,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/WordsReplace.java">
+    <entry file="file://$PROJECT_DIR$/src/com/CharsetUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="130">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
