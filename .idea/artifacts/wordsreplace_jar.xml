@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wordsreplace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wordsreplace_jar</output-path>
+    <root id="archive" name="wordsreplace.jar">
+      <element id="module-output" name="wordsreplace" />
+    </root>
+  </artifact>
+</component>
